@@ -1,0 +1,12 @@
+Please create a table using the above data. It will consist of 3 rows and 2 columns. 
+The cell rendered should be as follow:  
+
+1. If a cell is editable, then:
+    on hover: highlighted with blue color
+    on double click: the value can be edited
+
+2. If a cell contains icon, then it should be split into 2 cells. You can provide your own icon to fulfil the icon cell.
+
+3. If a cell has hint, then:
+    on hover: highlighted with blue colour
+    on click: show a popup with hint contained in it, as shown as the figure below
