@@ -1,9 +1,4 @@
-type CellType = {
-  editable: boolean;
-  label: string;
-  hint?: string;
-  icon?: string;
-};
+import { CellType } from '../interfaces';
 
 const data: CellType[][] = [
   [
